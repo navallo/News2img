@@ -1,7 +1,8 @@
 # News2img
 For Sohu News-Image Competition
 
-## Usage：
+## Usage：  
+suggest Python2.7  
 ### Download  
 1. download this rep  
 2. download Tensorflow official Models rep  
