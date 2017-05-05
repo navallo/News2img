@@ -14,4 +14,4 @@ https://github.com/navallo/TextRank4ZH
 https://github.com/navallo/word2vec_zh  
 
 ### Use  
-see WIKI
+see WIKI↗  
