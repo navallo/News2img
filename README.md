@@ -13,3 +13,5 @@ https://github.com/navallo/TextRank4ZH
 5. download word2vec_zh  
 https://github.com/navallo/word2vec_zh  
 
+### Use  
+see WIKI
