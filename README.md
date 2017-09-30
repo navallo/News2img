@@ -15,4 +15,4 @@ https://github.com/navallo/TextRank4ZH
 https://github.com/navallo/word2vec_zh  
 
 ### Run  
-see [WIKI](https://github.com/navallo/News2img/wiki)
+see [WIKI](https://github.com/navallo/News2img/wiki/Protocol)
